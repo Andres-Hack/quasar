@@ -65,3 +65,4 @@ It is also possible to include other fonts to use them in the app. The following
 ```
 
 3. Then use that class where you need it.
+4. run.
